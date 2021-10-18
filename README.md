@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Fintech projects.**
 
-- 👨‍💻 All of my projects are available at [https://francanete.dev](https://francanete.dev)
+- 👨‍💻 All of my projects are available at <a href="https://francanete.dev" target="_blank">
 
-- 📝 I regularly write articles on [https://francanete.com](https://francanete.com)
+- 📝 I regularly write articles on <a href="https://francanete.com" target="_blank">
 
 - 💬 Ask me about **React.**
 
