@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React, Gatsby, Next.js**
 
-- 🌱 I’m currently learning **TypeScript,**
+- 🌱 I’m currently learning **TypeScript and React Native,**
 
 - 👯 I’m looking to collaborate on **Fintech projects.**
 
