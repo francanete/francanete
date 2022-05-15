@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fran Canete</h1>
 <h3 align="center">A passionate frontend developer from Manchester, UK.</h3>
 
-- 🔭 I’m currently working on **React, Gatsby, Next.js**
+- 🔭 I’m currently working on **React, React Native, TypeScript, Next.js, Sass, MongoDB, Node.js**
 
-- 🌱 I’m currently learning **TypeScript and React Native,**
+- 🌱 I’m currently learning **Blockchain Development,**
 
-- 👯 I’m looking to collaborate on **Fintech projects.**
-
-- 👨‍💻 All of my projects are available at [francanete.dev](https://francanete.dev)
+- 👯 I’m looking to collaborate on **Fintech and Blockchain projects.**
 
 - 📝 I regularly write articles on [francanete.com](https://francanete.com)
-
-- 💬 Ask me about **React.**
 
 - ⚡ Fun fact **Humans are the only animals on earth with chins.**
 
