@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fran Canete</h1>
-<h3 align="center">A passionate frontend developer from Manchester, UK.</h3>
+<h3 align="center">Fulls Stack Engineer based in Manchester, UK.</h3>
 
-- 🔭 I’m currently working on **React, React Native, TypeScript, Next.js, Sass, MongoDB, Node.js**
+- 🔭 I’m currently working on **React, TypeScript, Node.js, SQL, OpenAPI, Jest.**
 
-- 🌱 I’m currently learning **Blockchain Development,**
+- 🌱 I’m currently learning **Python, AWS.**
 
-- 👯 I’m looking to collaborate on **Fintech and Blockchain projects.**
+- 👯 I’m looking to collaborate on **Fintech Projects.**
 
 - 📝 I regularly write articles on [francanete.com](https://francanete.com)
-
-- ⚡ Fun fact **Humans are the only animals on earth with chins.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
